@@ -5,7 +5,7 @@ plugins {
 }
 
 
-group 'com.forescout.cloud'
+group 'io.zmyzheng'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
